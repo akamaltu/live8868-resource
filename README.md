@@ -1,2 +1,14 @@
 # live8868-resource
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
